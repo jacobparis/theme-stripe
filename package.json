@@ -11,7 +11,7 @@
     "publisher": "jacobparis",
     "description": "VS Code themes based on the Stripe documentation",
     "version": "1.1.1",
-    "icon": "https://raw.githubusercontent.com/JacobParis/theme-stripe/main/2021-07-09-18-37-21.png",
+    "icon": "2021-07-09-18-37-21.png",
     "engines": {
         "vscode": "^1.50.0"
     },
