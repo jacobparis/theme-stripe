@@ -1,0 +1,35 @@
+{
+    "name": "stripe-docs-theme",
+
+    "displayName": "Stripe Docs Theme",
+    "author": {
+        "name": "Jacob Paris",
+        "url": "https://www.jacobparis.com/"
+    },
+    "repository": {
+        "url": "https://github.com/jacobparis/theme-stripe"
+    },
+    "publisher": "jacobparis",
+    "description": "VS Code themes based on the Stripe documentation",
+    "version": "0.0.4",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stripe Docs Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stripe-blue-color-theme.json"
+            },
+            {
+                "label": "Stripe Docs Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stripe-gray-color-theme.json"
+            }
+        ]
+    }
+}
