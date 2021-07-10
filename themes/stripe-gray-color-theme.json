@@ -77,7 +77,7 @@
 				"keyword",
 				"storage.type",
 				"storage.modifier",
-
+				"support.type",
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter"
@@ -146,15 +146,6 @@
 			],
 			"settings": {
 				"foreground": "#85d99e"
-			}
-		},
-		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
 			}
 		},
 		{
