@@ -10,7 +10,7 @@
     },
     "publisher": "jacobparis",
     "description": "VS Code themes based on the Stripe documentation",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "icon": "2021-07-09-18-37-21.png",
     "engines": {
         "vscode": "^1.50.0"
